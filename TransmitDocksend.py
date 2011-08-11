@@ -2,7 +2,7 @@ import sublime
 import sublime_plugin
 import subprocess
 
-class TransmitDocsendCommand(sublime_plugin.TextCommand):
+class TransmitDocksendCommand(sublime_plugin.TextCommand):
 	def run(self, edit):
 		script = """
 		on run
