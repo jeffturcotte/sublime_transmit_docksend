@@ -1,3 +1,3 @@
 [
-	{ "keys": ["super+u"], "command": "transmit_docksend" }
+	{ "keys": ["ctrl+u"], "command": "transmit_docksend" }
 ]
