@@ -9,12 +9,12 @@ A Sublime Text 2 (http://www.sublimetext.com/2) plugin that provides a key-bindi
 Clone this repository into a TransmitDocksend folder in the ST2 Packages directory.
 
 {{{
-git clone git://github.com/jeffturcotte/sublime_transmit_docksend.git ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/TransmitDocksend
+git clone git://github.com/mfallend/sublime_transmit_docksend.git ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/Transmit\ Docksend
 }}}
 
 == Usage
 
-Press cmd+u to Docksend the currently open file.
+Press ctrl+u to Docksend the currently open file.
 
 == License
 
