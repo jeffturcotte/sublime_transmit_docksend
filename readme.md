@@ -8,7 +8,7 @@ A [Sublime Text 2](http://www.sublimetext.com/2) plugin that adds the option to 
 
 Clone this repository into a "Transmit Docksend" folder in the ST2 Packages directory.
 
-  git clone git://github.com/mfallend/sublime_transmit_docksend.git ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/Transmit\ Docksend
+`git clone git://github.com/mfallend/sublime_transmit_docksend.git ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/Transmit\ Docksend`
 
 ## Usage
 
