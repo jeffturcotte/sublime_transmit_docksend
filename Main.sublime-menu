@@ -12,13 +12,21 @@
                 "children":
                 [
                     {
-                        "caption": "Transmit Docksend",
+                        "caption": "Transmit DockSend",
                         "children":
                         [
                             {
                                 "command": "open_file",
                                 "args": {
-                                    "file": "${packages}/Transmit Docksend/Default.sublime-keymap",
+                                    "file": "${packages}/Transmit DockSend/readme.md"
+                                },
+                                "caption": "README"
+                            },
+                            { "caption": "-" },
+                            {
+                                "command": "open_file",
+                                "args": {
+                                    "file": "${packages}/Transmit DockSend/Default.sublime-keymap",
                                     "platform": "OSX"
                                 },
                                 "caption": "Key Bindings – Default"
