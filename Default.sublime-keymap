@@ -1,3 +1,4 @@
 [
-	{ "keys": ["super+u"], "command": "transmit_docksend" }
+	{ "keys": ["ctrl+u"], "command": "transmit_docksend" },
+	{ "keys": ["ctrl+shift+u"], "command": "transmit_docksend", "args":{"connection":"active"} }
 ]

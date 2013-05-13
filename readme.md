@@ -1,22 +1,24 @@
-= Sublime Transmit Docksend
+#Sublime Transmit DockSend
 
-*supports OSX only*
+*supports OS X only*
 
-A Sublime Text 2 (http://www.sublimetext.com/2) plugin that provides a key-binding to docksend the current open file through Transmit (http://www.panic.com/transmit/)
+A [Sublime Text 2](http://www.sublimetext.com/2) plugin that adds the option to upload the current open file with [Transmit 4](http://www.panic.com/transmit/).
 
-== Installation
+## Installation
 
-Clone this repository into a TransmitDocksend folder in the ST2 Packages directory.
+Clone this repository into a "Transmit Docksend" folder in the ST2 Packages directory.
 
-{{{
-git clone git://github.com/jeffturcotte/sublime_transmit_docksend.git ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/TransmitDocksend
-}}}
+	git clone git://github.com/mfallend/sublime_transmit_docksend.git ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/Transmit\ Docksend
 
-== Usage
+## Usage
 
-Press cmd+u to Docksend the currently open file.
+### DockSend
+Use `ctrl+u` or `Transmit DockSend` (Command Pallete) to DockSend the current open file.
 
-== License
+### Send with Active Connection
+Use `ctrl+shift+u` or `Transmit Send with Active Connection` (Command Pallete) to upload the current open file with the active Transmit Connection.
+
+## License
 
   Copyright (c) 2011 Jeff Turcotte <jeff.turcotte@gmail.com>
 

@@ -1,0 +1,4 @@
+[
+    { "caption": "Transmit DockSend", "command": "transmit_docksend" },
+    { "caption": "Transmit Send with active Connection", "command": "transmit_docksend", "args":{"connection":"active"} }
+]
